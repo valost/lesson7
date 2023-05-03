@@ -17,7 +17,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #333;
+    border: 5px solid #333;
 }
 
 .item1 {
