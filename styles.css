@@ -26,25 +26,25 @@
 }
 
 .item1 {
-    order: -2;
+    align-self: flex-start;
 }
 
 .item2 {
-    order: 2;
+    align-self: flex-end;
 }
 
 .item3 {
-    order: 5;
+    align-self: flex-start;
 }
 
 .item4 {
-    order: -5;
+    align-self: flex-end;
 }
 
 .item5 {
-    order: 0;
+    align-self: flex-start;
 }
 
 .item6 {
-    order: -4;
+    align-self: flex-end;
 }
