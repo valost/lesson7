@@ -19,3 +19,27 @@
     align-items: center;
     border: 1px solid #333;
 }
+
+.item1 {
+    order: 1;
+}
+
+.item2 {
+    order: 6;
+}
+
+.item3 {
+    order: -1;
+}
+
+.item4 {
+    order: 5;
+}
+
+.item5 {
+
+}
+
+.item6 {
+
+}
