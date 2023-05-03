@@ -21,5 +21,12 @@
     align-items: center;
     border: 1px solid #333;
     flex-basis: 120px;
-    
+}
+
+.item {
+    flex-shrink: 1;
+}
+
+.item1 {
+    flex-shrink: 2;
 }
