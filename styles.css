@@ -21,25 +21,25 @@
 }
 
 .item1 {
-    order: 1;
+    order: -2;
 }
 
 .item2 {
-    order: 6;
+    order: 2;
 }
 
 .item3 {
-    order: -1;
-}
-
-.item4 {
     order: 5;
 }
 
-.item5 {
+.item4 {
+    order: -5;
+}
 
+.item5 {
+    order: 0;
 }
 
 .item6 {
-
+    order: -4;
 }
