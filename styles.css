@@ -1,3 +1,11 @@
+/*
+FONT_FAMILY
+
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Tenor Sans', sans;
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -5,10 +13,35 @@
 }
 
 .container {
-    display: flex;
-    width: 500px;
+    max-width: 1200px;
+    margin: 0 auto;
 
 }
+
+/*
+.header {
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 60px;
+}
+
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.menu {
+    display: flex;
+    gap: 40px;
+}
+
+.menu li {
+    list-style: none;
+}
+
+*/
+
 
 .container > div {
     width: 100px;
