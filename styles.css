@@ -22,7 +22,6 @@ font-family: 'Tenor Sans', sans;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	row-gap: 75px;
 }
 
 .articles_card {
