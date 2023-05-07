@@ -50,6 +50,7 @@ font-family: 'Tenor Sans', sans-serif;
 .banner_block {
 	display: flex;
 	gap: 50px;
+	margin-bottom: 60.5px;
 }
 
 .illustration  {
@@ -89,14 +90,14 @@ font-family: 'Tenor Sans', sans-serif;
 }
 
 .articles_block {
-    width: 387px;
+	margin-bottom: 20px;
 }
 
 
 .articles_wrapper {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	gap: 20px;
 }
 
 .articles_card {
