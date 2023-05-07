@@ -89,19 +89,21 @@ font-family: 'Tenor Sans', sans-serif;
 	color: #000000;
 }
 
-.articles_block {
-	margin-bottom: 20px;
-}
-
-
 .articles_wrapper {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 20px;
+	justify-content: space-between;
+	row-gap: 75px;
 }
 
 .articles_card {
 	width: 387px;
+}
+
+.articles_block {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
 }
 
 .article_category {
