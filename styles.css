@@ -18,6 +18,11 @@ font-family: 'Tenor Sans', sans;
 
 }
 
+.articles_block {
+    width: 387px;
+}
+
+
 .articles_wrapper {
 	display: flex;
 	flex-wrap: wrap;
