@@ -12,16 +12,19 @@ font-family: 'Tenor Sans', sans;
     box-sizing: border-box;
 }
 
-body {
-	background: white;
-}
-
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
 
 }
+
+.header_wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 0;
+}
+
 
 .articles_block {
     width: 387px;
