@@ -100,11 +100,14 @@ font-family: 'Tenor Sans', sans-serif;
 	width: 387px;
 }
 
+
+/*
 .articles_block {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 10px;
 }
+*/
 
 .article_category {
 	font-family: 'Libre Franklin', sans-serif;
