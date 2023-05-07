@@ -12,6 +12,11 @@ font-family: 'Tenor Sans', sans;
     box-sizing: border-box;
 }
 
+body {
+	background: white;
+}
+
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
