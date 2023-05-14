@@ -240,14 +240,11 @@ font-family: 'Tenor Sans', sans-serif;
 	text-transform: uppercase;
 	color: #999999;
 	font-family: 'Libre Franklin', sans-serif;
+	margin-bottom: 18px;
 }
 
 .article_img_big {
-	margin-bottom: 20px;
-}
-
-.article_category_big {
-	margin-bottom: 18px;
+	margin-bottom: 25px;
 }
 
 .article_cut_text_big {
