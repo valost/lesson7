@@ -228,7 +228,7 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	row-gap: 98px;
+	margin-bottom: 60px;
 }
 
 .articles_card_big {
@@ -248,6 +248,7 @@ body {
 
 .articles_img_big {
 	margin-bottom: 25px;
+	margin-top: 25px;
 }
 
 .article_cut_text_big {
@@ -268,6 +269,7 @@ body {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	color: #000000;
+	margin-bottom: 25px;
 }
 
 .posts {
@@ -284,4 +286,28 @@ body {
 .footer {
 	height: 250;
 	background-color: #141414;
+	padding: 90px 0;
 }
+
+.footer_info {
+	display: flex;
+	gap: 15px;
+
+}
+
+.footer_copy {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 10px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	color: #666666;
+	align-self: end;
+}
+
+.footer_line {
+	background: #4d4d4d;
+	height: 1px;
+	width: 100%;
+	margin: 60px 0;
+}
+
